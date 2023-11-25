@@ -5,6 +5,4 @@ Made a main page for my domain. Not that much here, just to redirect the traffic
 
 Hosted on AWS.
 
-## Architecture
-
 ## [Live Demo 🔗](https://heyitsmhoo.com)
